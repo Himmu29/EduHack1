@@ -1,3 +1,13 @@
+Stock Management App
+This repository contains a Stock Management application built using Next.js.
+
+Overview
+The Stock Management App enables users to efficiently manage inventory, track stock levels, and monitor product movement. It provides comprehensive features for inventory control, including adding new products, updating existing ones, and generating reports for insights.
+
+Features
+Product Management: Users can add new products, update existing product details, and remove products from inventory.
+Stock Tracking: The app enables real-time tracking of stock levels, allowing users to monitor product quantities and receive alerts for low stock.
+Inventory Reports: Users can generate detailed reports on product movement, stock levels, and sales performance to gain valuable insights
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
